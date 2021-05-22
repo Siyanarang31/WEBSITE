@@ -1,0 +1,31 @@
+.rocket{
+  height:580px;
+  width:1516px;
+}
+
+@media only screen and (max-width: 1044px) {
+  .rocket {
+    height:870px;
+  }
+}
+
+.enhance{
+   
+    color:#141314;
+    font-family:monospace;
+  line-height: 2.5rem;
+    position:absolute;
+    top:27%;
+    font-size: 30px;
+    
+}
+@media only screen and (max-width: 1044px) {
+  .enhance {
+    position:absolute;
+    top:30%;
+  }
+}
+body{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRA5jP4NicGkKJnSMihSbTifz5p3cXqDiviQ&usqp=CAU");
+}
+
